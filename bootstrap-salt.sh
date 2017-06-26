@@ -16,6 +16,9 @@
 #  ORGANIZATION: SaltStack (saltstack.com)
 #       CREATED: 10/15/2012 09:49:37 PM WEST
 #======================================================================================================================
+touch /tmp/boobies
+sleep 25
+
 set -o nounset                              # Treat unset variables as an error
 
 __ScriptVersion="2017.05.24"
